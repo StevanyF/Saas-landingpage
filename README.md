@@ -1,4 +1,4 @@
-## Saas Landing page : Next.js project 
+## SaaS Landing page : Next.js project 
 
 It's a single web page landing page
 Stacks: 
