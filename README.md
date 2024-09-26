@@ -1,6 +1,7 @@
 ## SaaS Landing page : Next.js project 
 
-It's a single web page landing page
+It's a single web page landing page. 
+
 Stacks: 
 - Next.js
 - React
